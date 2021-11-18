@@ -1,7 +1,6 @@
 ---
 - name: Hello World!
-  hosts: all
-
+  hosts:  192.168.122.107
   tasks:
 
   - name: Hello World!
