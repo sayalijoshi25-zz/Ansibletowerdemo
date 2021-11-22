@@ -8,4 +8,4 @@
          msg: "Hello {{nick_name}}"
      - name: ping all
        ping:
-         name: tower.example.com
+         
