@@ -1,3 +1,10 @@
 #TEST files
 
 #files has been updates
+---
+- name: Hello World!
+  hosts:  localhost, all
+  tasks:
+
+  - name: Hello World!
+    shell: echo "Hi! Tower is working!"
